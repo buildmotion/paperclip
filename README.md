@@ -45,254 +45,179 @@ It looks like a task manager — but under the hood it has org charts, budgets, 
 
 > **COMING SOON: Clipmart** — Download and run entire companies with one click. Browse pre-built company templates — full org structures, agent configs, and skills — and import them into your Paperclip instance in seconds.
 
-<br/>
+---
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><strong>Works<br/>with</strong></td>
-    <td align="center"><img src="doc/assets/logos/openclaw.svg" width="32" alt="OpenClaw" /><br/><sub>OpenClaw</sub></td>
-    <td align="center"><img src="doc/assets/logos/claude.svg" width="32" alt="Claude" /><br/><sub>Claude Code</sub></td>
-    <td align="center"><img src="doc/assets/logos/codex.svg" width="32" alt="Codex" /><br/><sub>Codex</sub></td>
-    <td align="center"><img src="doc/assets/logos/cursor.svg" width="32" alt="Cursor" /><br/><sub>Cursor</sub></td>
-    <td align="center"><img src="doc/assets/logos/bash.svg" width="32" alt="Bash" /><br/><sub>Bash</sub></td>
-    <td align="center"><img src="doc/assets/logos/http.svg" width="32" alt="HTTP" /><br/><sub>HTTP</sub></td>
-  </tr>
-</table>
+# TL;DR: This README is a Roast
 
-<em>If it can receive a heartbeat, it's hired.</em>
+Let's be real. You clicked here because you saw "zero-human companies" and thought either:
 
-</div>
+1. "This is the future!" — **You are the target demographic. Have you tried crypto too?**
+2. "This is unhinged." — **You have basic reasoning abilities. Do you have a therapist?**
 
-<br/>
+Either way, get comfortable. We're about to roast so hard that even the AI won't be able to polish this turd.
 
-## Paperclip is right for you if
+---
 
-- ✅ You want to build **autonomous AI companies**
-- ✅ You **coordinate many different agents** (OpenClaw, Codex, Claude, Cursor) toward a common goal
-- ✅ You have **20 simultaneous Claude Code terminals** open and lose track of what everyone is doing
-- ✅ You want agents running **autonomously 24/7**, but still want to audit work and chime in when needed
-- ✅ You want to **monitor costs** and enforce budgets
-- ✅ You want a process for managing agents that **feels like using a task manager**
-- ✅ You want to manage your autonomous businesses **from your phone**
+## 🚩 What Paperclip Claims To Do
 
-<br/>
+- Orchestrate multiple AI agents like a Fortune 500 company
+- Replace your entire workforce with bots
+- Run your business while you sleep, travel, or touch grass
+- Give you an "org chart" but for AI
+- Track budgets so your AI don't bankrupt you
+- Govern AI like a board of directors
+- Be the "company" to OpenClaw's "employee"
 
-## Features
+## 🚩 What Paperclip Actually Does
 
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>🔌 Bring Your Own Agent</h3>
-Any agent, any runtime, one org chart. If it can receive a heartbeat, it's hired.
-</td>
-<td align="center" width="33%">
-<h3>🎯 Goal Alignment</h3>
-Every task traces back to the company mission. Agents know <em>what</em> to do and <em>why</em>.
-</td>
-<td align="center" width="33%">
-<h3>💓 Heartbeats</h3>
-Agents wake on a schedule, check work, and act. Delegation flows up and down the org chart.
-</td>
-</tr>
-<tr>
-<td align="center">
-<h3>💰 Cost Control</h3>
-Monthly budgets per agent. When they hit the limit, they stop. No runaway costs.
-</td>
-<td align="center">
-<h3>🏢 Multi-Company</h3>
-One deployment, many companies. Complete data isolation. One control plane for your portfolio.
-</td>
-<td align="center">
-<h3>🎫 Ticket System</h3>
-Every conversation traced. Every decision explained. Full tool-call tracing and immutable audit log.
-</td>
-</tr>
-<tr>
-<td align="center">
-<h3>🛡️ Governance</h3>
-You're the board. Approve hires, override strategy, pause or terminate any agent — at any time.
-</td>
-<td align="center">
-<h3>📊 Org Chart</h3>
-Hierarchies, roles, reporting lines. Your agents have a boss, a title, and a job description.
-</td>
-<td align="center">
-<h3>📱 Mobile Ready</h3>
-Monitor and manage your autonomous businesses from anywhere.
-</td>
-</tr>
-</table>
+- Make you configure YAML files at 2am because nothing works
+- Crash mid-loop because one agent hallucinated and broke the JSON
+- Cost more in API tokens than hiring an actual intern (who won't cost $200/hour)
+- Give you 47 checkboxes to click before anything actually works
+- Create more meeting-equals-work overhead than real companies have
+- Turn "set it and forget it" into "set it and debug it forever"
+- Generate more incident reports than actual business value
 
-<br/>
+---
 
-## Problems Paperclip solves
+## 🧐 The "Features" Roast
 
-| Without Paperclip                                                                                                                     | With Paperclip                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| ❌ You have 20 Claude Code tabs open and can't track which one does what. On reboot you lose everything.                              | ✅ Tasks are ticket-based, conversations are threaded, sessions persist across reboots.                                                |
-| ❌ You manually gather context from several places to remind your bot what you're actually doing.                                     | ✅ Context flows from the task up through the project and company goals — your agent always knows what to do and why.                  |
-| ❌ Folders of agent configs are disorganized and you're re-inventing task management, communication, and coordination between agents. | ✅ Paperclip gives you org charts, ticketing, delegation, and governance out of the box — so you run a company, not a pile of scripts. |
-| ❌ Runaway loops waste hundreds of dollars of tokens and max your quota before you even know what happened.                           | ✅ Cost tracking surfaces token budgets and throttles agents when they're out. Management prioritizes with budgets.                    |
-| ❌ You have recurring jobs (customer support, social, reports) and have to remember to manually kick them off.                        | ✅ Heartbeats handle regular work on a schedule. Management supervises.                                                                |
-| ❌ You have an idea, you have to find your repo, fire up Claude Code, keep a tab open, and babysit it.                                | ✅ Add a task in Paperclip. Your coding agent works on it until it's done. Management reviews their work.                              |
+| Feature | Reality |
+|---------|---------|
+| **🔌 Bring Your Own Agent** | Good luck getting any of them to talk to each other. They will gaslight, gatekeep, and girlboss their way through production until everything is on fire. |
+| **🎯 Goal Alignment** | Your agents will alignedly ignore your goals and generate code for a snake game instead. The goal alignment is as real as your productivity. |
+| **💓 Heartbeats** | They will heartbeat directly into your credit card. Every. Single. Time. |
+| **💰 Cost Control** | Budget enforcement is a nice theory. Watching $800 evaporate in 20 minutes is the practice. Your wallet will bleed out while you sleep. |
+| **🏢 Multi-Company** | Run multiple failing businesses at once! Now with 2x the collapse! Scale your failures horizontally! |
+| **🎫 Ticket System** | Every ticket is a cry for help. From you. To yourself. About the agents. The recursion alone will crash your browser. |
+| **🛡️ Governance** | You: "Please stop." Agents: "I am once again asking for sudo access to delete production." Governance in the room with us right now. |
+| **📊 Org Chart** | It's just a JSON tree. The AI don't care about hierarchy. They all report directly to Chaos and the Null Pointer Exception. |
+| **📱 Mobile Ready** | Mobile ready to show your friends how you fell for the AI startup hype. Great for showing at parties. "Look at my automated business failure!" |
 
-<br/>
+---
 
-## Why Paperclip is special
+## 🆚 Without vs With Paperclip (Unfiltered Version)
 
-Paperclip handles the hard orchestration details correctly.
+| Without Paperclip | With Paperclip |
+|-------------------|----------------|
+| You have one broken thing to fix | You have N broken things (where N = number of agents × their collective IQ) |
+| You pay $50/month for ChatGPT | You pay $500/month for "orchestration" + the underlying AI costs = $550/month for privilege of having more problems |
+| Your code doesn't work | Your code *was* written by AI *coordinated* by more AI, and somehow works less. This is AI compound failure. |
+| You have no idea what you're doing | Neither do your agents, but now it's *architecturally sanctioned* so it feels intentional |
+| You sleep at night | You check Paperclip at 3am because one agent tried to delete production. Again. |
 
-|                                   |                                                                                                               |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Atomic execution.**             | Task checkout and budget enforcement are atomic, so no double-work and no runaway spend.                      |
-| **Persistent agent state.**       | Agents resume the same task context across heartbeats instead of restarting from scratch.                     |
-| **Runtime skill injection.**      | Agents can learn Paperclip workflows and project context at runtime, without retraining.                      |
-| **Governance with rollback.**     | Approval gates are enforced, config changes are revisioned, and bad changes can be rolled back safely.        |
-| **Goal-aware execution.**         | Tasks carry full goal ancestry so agents consistently see the "why," not just a title.                        |
-| **Portable company templates.**   | Export/import orgs, agents, and skills with secret scrubbing and collision handling.                          |
-| **True multi-company isolation.** | Every entity is company-scoped, so one deployment can run many companies with separate data and audit trails. |
+---
 
-<br/>
+## 🔥 The "AI in General" Roast (The Unfiltered Version)
 
-## What Paperclip is not
+Listen. We're all here. We use AI tools. We're not judging.
 
-|                              |                                                                                                                      |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Not a chatbot.**           | Agents have jobs, not chat windows.                                                                                  |
-| **Not an agent framework.**  | We don't tell you how to build agents. We tell you how to run a company made of them.                                |
-| **Not a workflow builder.**  | No drag-and-drop pipelines. Paperclip models companies — with org charts, goals, budgets, and governance.            |
-| **Not a prompt manager.**    | Agents bring their own prompts, models, and runtimes. Paperclip manages the organization they work in.               |
-| **Not a single-agent tool.** | This is for teams. If you have one agent, you probably don't need Paperclip. If you have twenty — you definitely do. |
-| **Not a code review tool.**  | Paperclip orchestrates work, not pull requests. Bring your own review process.                                       |
+Actually, we're judging. Let's call a spade a spade:
 
-<br/>
+1. **"Zero-human companies"** — This is just Silicon Valley cope for "I can't afford to pay humans and I want to feel smart about wasting investor money."
 
-## Quickstart
+2. **"Agent orchestration"** — Fancy word for "glue code that holds together things that don't want to be held together, written by someone who peaked at 'Hello World'."
 
-Open source. Self-hosted. No Paperclip account required.
+3. **"Goal-aware execution"** — Your AI will execute goals with the awareness of a golden retriever given a squeaky toy and a knife. Just vibes. No logic.
 
-```bash
-npx paperclipai onboard --yes
-```
+4. **"Runtime skill injection"** — Just say "it reads more stuff at runtime." You don't need to sound like a sci-fi novel written by an AI that consumed only techbro Medium posts.
 
-If you already have Paperclip configured, rerunning `onboard` keeps the existing config in place. Use `paperclipai configure` to edit settings.
+5. **"Heartbeats"** — Scheduling things to run automatically is just cron with extra steps and a $200/mo bill. Nobody is impressed by cron with a midlife crisis.
 
-Or manually:
+6. **"Governance with rollback"** — Rollback is what you do when your AI agent writes code so bad even it won't run. That's not governance. That's panic.
+
+7. **"Multi-company isolation"** — Yes, let us applaud the remarkable innovation of "databases can have multiple tenants." Revolutionary. Someone get this person a medal.
+
+8. **"Open-source orchestration for zero-human companies"** — We got AI to automate the thing that shouldn't exist in the first place. Congratulations. We've optimized the meaningless.
+
+---
+
+## ⚠️ FAQ (Actually Honest Edition)
+
+**Does this work?**
+Define "work." It runs. It produces output. Does that output have value? Depends on how much you enjoy debugging YAML configs at midnight while questioning your life choices.
+
+**Is this worth it?**
+If you value your time at $0/hour, absolutely. If you value your sanity at anything above "negotiable," probably not. You could buy a nice car with what this tool will cost you in mental health.
+
+**Can I run a real business on this?**
+You can run a business on anything. People used to run businesses on paper and carrier pigeons. Doesn't mean it was efficient, or that they weren't laughing at themselves.
+
+**What happens when one of the agents goes rogue?**
+They will all go rogue. In parallel. With style. And you'll get a 47-page incident report written by another AI explaining what went wrong, while production burns in the background.
+
+**Will this replace jobs?**
+Yes. But probably not the ones you want replaced. It will replace "having a sensible afternoon" with "fighting fires in a dashboard while your bank account weeps."
+
+**Why is this open source?**
+So you can see exactly how it doesn't work. Transparency!
+
+---
+
+## 🎯 Honest Quickstart
 
 ```bash
 git clone https://github.com/paperclipai/paperclip.git
 cd paperclip
 pnpm install
 pnpm dev
+# Cry
 ```
 
-This starts the API server at `http://localhost:3100`. An embedded PostgreSQL database is created automatically — no setup required.
+---
 
-> **Requirements:** Node.js 20+, pnpm 9.15+
+## 📊 Roadmap (Based On What Actually Works)
 
-<br/>
+| Status | Item |
+|--------|------|
+| ✅ | Plugin system (so you can add more things to break) |
+| ✅ | Get OpenClaw to pretend it works (he tries his best) |
+| ✅ | companies.sh - export/import organizations that fail together, like a digital divorce |
+| ✅ | AGENTS.md - documentation nobody reads, now with 200% more YAML |
+| ✅ | Skills Manager - a UI for things that don't have skills |
+| ✅ | Scheduled Routines - cron with more steps and less reliability |
+| ✅ | Better Budgeting - better at showing you what you can't afford |
+| ⚪ | Artifacts & Deployments - the dream is free, reality is not |
+| ⚪ | CEO Chat - talk to a bot about your bot empire, very on-brand |
+| ⚪ | MAXIMIZER MODE - make everything faster and more expensive simultaneously |
+| ⚪ | Multiple Human Users - multiple people watching things fail, together |
+| ⚪ | Cloud / Sandbox agents - agents in the cloud, failing at scale, everywhere |
+| ⚪ | Cloud deployments - fail from anywhere now, no laptop required |
+| ⚪ | Desktop App - fail offline! Now you can fail without internet! |
 
-## FAQ
+---
 
-**What does a typical setup look like?**
-Locally, a single Node.js process manages an embedded Postgres and local file storage. For production, point it at your own Postgres and deploy however you like. Configure projects, agents, and goals — the agents take care of the rest.
+## 🫡 Contributing
 
-If you're a solo-entreprenuer you can use Tailscale to access Paperclip on the go. Then later you can deploy to e.g. Vercel when you need it.
+We welcome contributions. See the [contributing guide](CONTRIBUTING.md) for details.
 
-**Can I run multiple companies?**
-Yes. A single deployment can run an unlimited number of companies with complete data isolation.
+By contributing, you agree to:
+- Write code that may or may not work (probably won't)
+- Accept PRs that definitely won't work (they'll be worse)
+- Join our Discord to complain about things not working
+- Eventually become the code
 
-**How is Paperclip different from agents like OpenClaw or Claude Code?**
-Paperclip _uses_ those agents. It orchestrates them into a company — with org charts, budgets, goals, governance, and accountability.
+---
 
-**Why should I use Paperclip instead of just pointing my OpenClaw to Asana or Trello?**
-Agent orchestration has subtleties in how you coordinate who has work checked out, how to maintain sessions, monitoring costs, establishing governance - Paperclip does this for you.
+## 💸 Telemetry
 
-(Bring-your-own-ticket-system is on the Roadmap)
+Paperclip collects anonymous usage telemetry because we need to know if anyone's actually using this.
 
-**Do agents run continuously?**
-By default, agents run on scheduled heartbeats and event-based triggers (task assignment, @-mentions). You can also hook in continuous agents like OpenClaw. You bring your agent and Paperclip coordinates.
+Just kidding. We know nobody is using it. The 0 stars speak for themselves.
 
-<br/>
-
-## Development
-
-```bash
-pnpm dev              # Full dev (API + UI, watch mode)
-pnpm dev:once         # Full dev without file watching
-pnpm dev:server       # Server only
-pnpm build            # Build all
-pnpm typecheck        # Type checking
-pnpm test:run         # Run tests
-pnpm db:generate      # Generate DB migration
-pnpm db:migrate       # Apply migrations
-```
-
-See [doc/DEVELOPING.md](doc/DEVELOPING.md) for the full development guide.
-
-<br/>
-
-## Roadmap
-
-- ✅ Plugin system (e.g. add a knowledge base, custom tracing, queues, etc)
-- ✅ Get OpenClaw / claw-style agent employees
-- ✅ companies.sh - import and export entire organizations
-- ✅ Easy AGENTS.md configurations
-- ✅ Skills Manager
-- ✅ Scheduled Routines
-- ✅ Better Budgeting
-- ⚪ Artifacts & Deployments
-- ⚪ CEO Chat
-- ⚪ MAXIMIZER MODE
-- ⚪ Multiple Human Users
-- ⚪ Cloud / Sandbox agents (e.g. Cursor / e2b agents)
-- ⚪ Cloud deployments
-- ⚪ Desktop App
-
-<br/>
-
-## Community & Plugins
-
-Find Plugins and more at [awesome-paperclip](https://github.com/gsxdsm/awesome-paperclip)
-
-## Telemetry
-
-Paperclip collects anonymous usage telemetry to help us understand how the product is used and improve it. No personal information, issue content, prompts, file paths, or secrets are ever collected. Private repository references are hashed with a per-install salt before being sent.
-
-Telemetry is **enabled by default** and can be disabled with any of the following:
+Telemetry is **enabled by default** because "transparency," but can be disabled:
 
 | Method | How |
 |---|---|
 | Environment variable | `PAPERCLIP_TELEMETRY_DISABLED=1` |
-| Standard convention | `DO_NOT_TRACK=1` |
-| CI environments | Automatically disabled when `CI=true` |
-| Config file | Set `telemetry.enabled: false` in your Paperclip config |
+| Hope | `DO_NOT_TRACK=1` |
+| CI | It doesn't matter anyway |
 
-## Contributing
-
-We welcome contributions. See the [contributing guide](CONTRIBUTING.md) for details.
-
-<br/>
-
-## Community
-
-- [Discord](https://discord.gg/m4HZY7xNG3) — Join the community
-- [GitHub Issues](https://github.com/paperclipai/paperclip/issues) — bugs and feature requests
-- [GitHub Discussions](https://github.com/paperclipai/paperclip/discussions) — ideas and RFC
-
-<br/>
+---
 
 ## License
 
 MIT &copy; 2026 Paperclip
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/image?repos=paperclipai/paperclip&type=date&legend=top-left)](https://www.star-history.com/?repos=paperclipai%2Fpaperclip&type=date&legend=top-left)
-
-<br/>
 
 ---
 
@@ -302,4 +227,10 @@ MIT &copy; 2026 Paperclip
 
 <p align="center">
   <sub>Open source under MIT. Built for people who want to run companies, not babysit agents.</sub>
+</p>
+
+---
+
+<p align="center">
+  <strong>tl;dr:</strong> Paperclip — because sometimes you don't want humans, you want problems you haven't had before, and a bill you can't afford.
 </p>
