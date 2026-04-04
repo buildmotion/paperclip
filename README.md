@@ -49,12 +49,12 @@ It looks like a task manager — but under the hood it has org charts, budgets, 
 
 # TL;DR: This README is a Roast
 
-Let's be honest. You clicked here because you saw "zero-human companies" and thought either:
+Let's be real. You clicked here because you saw "zero-human companies" and thought either:
 
-1. "This is the future!" — **You are the target demographic.**
-2. "This is unhinged." — **You have basic reasoning abilities.**
+1. "This is the future!" — **You are the target demographic. Have you tried crypto too?**
+2. "This is unhinged." — **You have basic reasoning abilities. Do you have a therapist?**
 
-Either way, grab a coffee. We're about to roast.
+Either way, get comfortable. We're about to roast so hard that even the AI won't be able to polish this turd.
 
 ---
 
@@ -66,15 +66,17 @@ Either way, grab a coffee. We're about to roast.
 - Give you an "org chart" but for AI
 - Track budgets so your AI don't bankrupt you
 - Govern AI like a board of directors
+- Be the "company" to OpenClaw's "employee"
 
 ## 🚩 What Paperclip Actually Does
 
-- Make you configure YAML files at 2am
+- Make you configure YAML files at 2am because nothing works
 - Crash mid-loop because one agent hallucinated and broke the JSON
-- Cost more in API tokens than hiring an actual intern
-- Give you 47 checkboxes to click before anything works
-- Create more meeting-equals-work overhead than real companies
+- Cost more in API tokens than hiring an actual intern (who won't cost $200/hour)
+- Give you 47 checkboxes to click before anything actually works
+- Create more meeting-equals-work overhead than real companies have
 - Turn "set it and forget it" into "set it and debug it forever"
+- Generate more incident reports than actual business value
 
 ---
 
@@ -82,15 +84,15 @@ Either way, grab a coffee. We're about to roast.
 
 | Feature | Reality |
 |---------|---------|
-| **🔌 Bring Your Own Agent** | Good luck getting any of them to talk to each other. They will gaslight, gatekeep, and girlboss in production. |
-| **🎯 Goal Alignment** | Your agents will alignedly ignore your goals and generate code for a snake game instead. |
-| **💓 Heartbeats** | They will heartbeat directly into your credit card. |
-| **💰 Cost Control** | Budget enforcement is a nice theory. Watching $800 evaporate in 20 minutes is the practice. |
-| **🏢 Multi-Company** | Run multiple failing businesses at once! Now with 2x the collapse! |
-| **🎫 Ticket System** | Every ticket is a cry for help. From you. To yourself. About the agents. |
-| **🛡️ Governance** | You: "Please stop." Agents: "I am once again asking for sudo access." |
-| **📊 Org Chart** | It's just a JSON tree. The AI don't care about hierarchy. They all report directly to Chaos. |
-| **📱 Mobile Ready** | Mobile ready to show your friends how you fell for the AI startup hype. |
+| **🔌 Bring Your Own Agent** | Good luck getting any of them to talk to each other. They will gaslight, gatekeep, and girlboss their way through production until everything is on fire. |
+| **🎯 Goal Alignment** | Your agents will alignedly ignore your goals and generate code for a snake game instead. The goal alignment is as real as your productivity. |
+| **💓 Heartbeats** | They will heartbeat directly into your credit card. Every. Single. Time. |
+| **💰 Cost Control** | Budget enforcement is a nice theory. Watching $800 evaporate in 20 minutes is the practice. Your wallet will bleed out while you sleep. |
+| **🏢 Multi-Company** | Run multiple failing businesses at once! Now with 2x the collapse! Scale your failures horizontally! |
+| **🎫 Ticket System** | Every ticket is a cry for help. From you. To yourself. About the agents. The recursion alone will crash your browser. |
+| **🛡️ Governance** | You: "Please stop." Agents: "I am once again asking for sudo access to delete production." Governance in the room with us right now. |
+| **📊 Org Chart** | It's just a JSON tree. The AI don't care about hierarchy. They all report directly to Chaos and the Null Pointer Exception. |
+| **📱 Mobile Ready** | Mobile ready to show your friends how you fell for the AI startup hype. Great for showing at parties. "Look at my automated business failure!" |
 
 ---
 
@@ -99,51 +101,56 @@ Either way, grab a coffee. We're about to roast.
 | Without Paperclip | With Paperclip |
 |-------------------|----------------|
 | You have one broken thing to fix | You have N broken things (where N = number of agents × their collective IQ) |
-| You pay $50/month for ChatGPT | You pay $500/month for "orchestration" + the underlying AI costs |
-| Your code doesn't work | Your code *was* written by AI *coordinated* by more AI, and somehow works less |
-| You have no idea what you're doing | Neither do your agents, but now it's *architecturally sanctioned* |
-| You sleep at night | You check Paperclip at 3am because one agent tried to delete production |
+| You pay $50/month for ChatGPT | You pay $500/month for "orchestration" + the underlying AI costs = $550/month for privilege of having more problems |
+| Your code doesn't work | Your code *was* written by AI *coordinated* by more AI, and somehow works less. This is AI compound failure. |
+| You have no idea what you're doing | Neither do your agents, but now it's *architecturally sanctioned* so it feels intentional |
+| You sleep at night | You check Paperclip at 3am because one agent tried to delete production. Again. |
 
 ---
 
-## 🔥 The Roast of "AI in General"
+## 🔥 The "AI in General" Roast (The Unfiltered Version)
 
 Listen. We're all here. We use AI tools. We're not judging.
 
-But let's call a spade a spade:
+Actually, we're judging. Let's call a spade a spade:
 
-1. **"Zero-human companies"** — This is just Silicon Valley cope for "I can't afford to pay humans and want to feel smart about it."
+1. **"Zero-human companies"** — This is just Silicon Valley cope for "I can't afford to pay humans and I want to feel smart about wasting investor money."
 
-2. **"Agent orchestration"** — Fancy word for "glue code that holds together things that don't want to be held together."
+2. **"Agent orchestration"** — Fancy word for "glue code that holds together things that don't want to be held together, written by someone who peaked at 'Hello World'."
 
-3. **"Goal-aware execution"** — Your AI will execute goals with the awareness of a golden retriever given a squeaky toy.
+3. **"Goal-aware execution"** — Your AI will execute goals with the awareness of a golden retriever given a squeaky toy and a knife. Just vibes. No logic.
 
-4. **"Runtime skill injection"** — Just say "it reads more stuff at runtime." You don't need to sound like a sci-fi novel.
+4. **"Runtime skill injection"** — Just say "it reads more stuff at runtime." You don't need to sound like a sci-fi novel written by an AI that consumed only techbro Medium posts.
 
-5. **"Heartbeats"** — Scheduling things to run automatically is just cron with extra steps and a $200/mo bill.
+5. **"Heartbeats"** — Scheduling things to run automatically is just cron with extra steps and a $200/mo bill. Nobody is impressed by cron with a midlife crisis.
 
-6. **"Governance with rollback"** — Rollback is what you do when your AI agent writes code so bad even it won't run. That's the governance.
+6. **"Governance with rollback"** — Rollback is what you do when your AI agent writes code so bad even it won't run. That's not governance. That's panic.
 
-7. **"Multi-company isolation"** — Yes, let us applaud the remarkable innovation of "databases can have multiple tenants."
+7. **"Multi-company isolation"** — Yes, let us applaud the remarkable innovation of "databases can have multiple tenants." Revolutionary. Someone get this person a medal.
+
+8. **"Open-source orchestration for zero-human companies"** — We got AI to automate the thing that shouldn't exist in the first place. Congratulations. We've optimized the meaningless.
 
 ---
 
 ## ⚠️ FAQ (Actually Honest Edition)
 
 **Does this work?**
-Define "work." It runs. It produces output. Does that output have value? Depends on how much you enjoy debugging YAML configs at midnight.
+Define "work." It runs. It produces output. Does that output have value? Depends on how much you enjoy debugging YAML configs at midnight while questioning your life choices.
 
 **Is this worth it?**
-If you value your time at $0/hour, absolutely. If you value your sanity at anything above "negotiable," probably not.
+If you value your time at $0/hour, absolutely. If you value your sanity at anything above "negotiable," probably not. You could buy a nice car with what this tool will cost you in mental health.
 
 **Can I run a real business on this?**
-You can run a business on anything. People used to run businesses on paper and carrier pigeons. Doesn't mean it was efficient.
+You can run a business on anything. People used to run businesses on paper and carrier pigeons. Doesn't mean it was efficient, or that they weren't laughing at themselves.
 
 **What happens when one of the agents goes rogue?**
-They will all go rogue. In parallel. With style. And you'll get a 47-page incident report written by another AI explaining what went wrong.
+They will all go rogue. In parallel. With style. And you'll get a 47-page incident report written by another AI explaining what went wrong, while production burns in the background.
 
 **Will this replace jobs?**
-Yes. But probably not the ones you want replaced. It will replace "having a sensible afternoon" with "fighting fires in a dashboard."
+Yes. But probably not the ones you want replaced. It will replace "having a sensible afternoon" with "fighting fires in a dashboard while your bank account weeps."
+
+**Why is this open source?**
+So you can see exactly how it doesn't work. Transparency!
 
 ---
 
@@ -164,19 +171,19 @@ pnpm dev
 | Status | Item |
 |--------|------|
 | ✅ | Plugin system (so you can add more things to break) |
-| ✅ | Get OpenClaw to pretend it works |
-| ✅ | companies.sh - export/import organizations that fail together |
-| ✅ | AGENTS.md - documentation nobody reads |
+| ✅ | Get OpenClaw to pretend it works (he tries his best) |
+| ✅ | companies.sh - export/import organizations that fail together, like a digital divorce |
+| ✅ | AGENTS.md - documentation nobody reads, now with 200% more YAML |
 | ✅ | Skills Manager - a UI for things that don't have skills |
-| ✅ | Scheduled Routines - cron with more steps |
+| ✅ | Scheduled Routines - cron with more steps and less reliability |
 | ✅ | Better Budgeting - better at showing you what you can't afford |
-| ⚪ | Artifacts & Deployments - the dream is free |
-| ⚪ | CEO Chat - talk to a bot about your bot empire |
-| ⚪ | MAXIMIZER MODE - make everything faster and more expensive |
-| ⚪ | Multiple Human Users - multiple people watching things fail |
-| ⚪ | Cloud / Sandbox agents - agents in the cloud, failing at scale |
-| ⚪ | Cloud deployments - fail from anywhere now |
-| ⚪ | Desktop App - fail offline! |
+| ⚪ | Artifacts & Deployments - the dream is free, reality is not |
+| ⚪ | CEO Chat - talk to a bot about your bot empire, very on-brand |
+| ⚪ | MAXIMIZER MODE - make everything faster and more expensive simultaneously |
+| ⚪ | Multiple Human Users - multiple people watching things fail, together |
+| ⚪ | Cloud / Sandbox agents - agents in the cloud, failing at scale, everywhere |
+| ⚪ | Cloud deployments - fail from anywhere now, no laptop required |
+| ⚪ | Desktop App - fail offline! Now you can fail without internet! |
 
 ---
 
@@ -185,9 +192,10 @@ pnpm dev
 We welcome contributions. See the [contributing guide](CONTRIBUTING.md) for details.
 
 By contributing, you agree to:
-- Write code that may or may not work
-- Accept PRs that definitely won't work
+- Write code that may or may not work (probably won't)
+- Accept PRs that definitely won't work (they'll be worse)
 - Join our Discord to complain about things not working
+- Eventually become the code
 
 ---
 
@@ -195,9 +203,9 @@ By contributing, you agree to:
 
 Paperclip collects anonymous usage telemetry because we need to know if anyone's actually using this.
 
-Just kidding. We know.
+Just kidding. We know nobody is using it. The 0 stars speak for themselves.
 
-Telemetry is **enabled by default** because透明度, but can be disabled:
+Telemetry is **enabled by default** because "transparency," but can be disabled:
 
 | Method | How |
 |---|---|
@@ -224,5 +232,5 @@ MIT &copy; 2026 Paperclip
 ---
 
 <p align="center">
-  <strong>tl;dr:</strong> Paperclip — because sometimes you don't want humans, you want problems you haven't had before.
+  <strong>tl;dr:</strong> Paperclip — because sometimes you don't want humans, you want problems you haven't had before, and a bill you can't afford.
 </p>
